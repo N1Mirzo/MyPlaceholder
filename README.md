@@ -8,7 +8,7 @@
 ##### For instance: <img src="https://myplaceholder.netlify.com" />
 ##### And to go to the website jump to following link:
 
-###### [MyPlaceholder Reallike Databases Website.](https://myplaceholder.netlify.com)
+###### MyPlaceholder Reallike Databases Website. (https://myplaceholder.netlify.com/users.json)
 
 * * *
 
